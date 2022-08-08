@@ -1,1 +1,1 @@
-![Hi, I'm Beni! I am a student at the University of Nyíregyháza, you can find my hobby projects in my account below_](https://user-images.githubusercontent.com/61885011/183443006-28692cb5-2e92-4110-9ce3-f77ee28ed044.svg)
+<img src="https://user-images.githubusercontent.com/61885011/183445448-1f81f76a-7452-49eb-a120-ec6c5c0c5f05.svg" height="14">
