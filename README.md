@@ -1,4 +1,4 @@
-<p>
+<p align="center">
   <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" title="" alt="CodingGIF" align="center" width="32%">
 
 <img src="https://analyticsindiamag.com/wp-content/uploads/2018/12/programming.gif" title="" alt="CodingGIF" align="center" width="32%">
