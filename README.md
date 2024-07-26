@@ -1,1 +1,1 @@
-![its-not-a-bug-its-a-feature](https://github.com/vellt/vellt/assets/61885011/ff6535c7-2b21-4ccb-a2a8-e70dff72135f)
+![bugcat-loading (1)](https://github.com/user-attachments/assets/504c35e1-6901-4d95-8d92-5a3992803a19)
